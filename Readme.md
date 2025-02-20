@@ -35,7 +35,7 @@ Users should be able to:
 ![Desktop Preview](./design/desktop-preview.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://https://github.com/90541115588/mtm6404-frontend-mentor-90541115588)
+- Solution URL: [Add solution URL here](https://github.com/6476173854/Frontend-Mentor-Challenge-Ankush.git)
 
 ## My Process
 

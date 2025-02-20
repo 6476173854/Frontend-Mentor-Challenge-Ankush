@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Preview](./image-hero-desktop.png)
+![Desktop Preview](./a1.png)
 
 ### Links
 - Solution URL: [Add solution URL here](https://github.com/6476173854/Frontend-Mentor-Challenge-Ankush.git)
